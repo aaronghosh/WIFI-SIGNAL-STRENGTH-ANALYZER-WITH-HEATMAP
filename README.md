@@ -1,2 +1,2 @@
 # WIFI-SIGNAL-STRENGTH-ANALYZER-WITH-HEATMAP
-this is a working wifi signal strength analyzer that sniffs your signal strength in real time and uses libraries like seaborn to display a heatmap of the same
+This is a Signal Strength Analyser that sniffs packets from the Wifi signal source connected to the device and gives the signal strength and generates a .csv file which is then converted into a pandas database which gives us the heatmap of the area with the light areas indicating the areas where the signal strenth is strong and the darker areas indicating where the signal strength is weak
